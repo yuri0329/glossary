@@ -23,4 +23,7 @@ La localizzazione del progetto in italiano è a cura di [Giulia Di Pietro](https
 
 ## Licenza
 
+
+
+
 Tutti i contributi sono sotto licenza Apache 2.0. La documentazione è distribuita sotto i termini di licenza Creative Commons CC BY 4.0.
